@@ -1,0 +1,13 @@
+package com.me.fakersinker;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FakersinkerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FakersinkerApplication.class, args);
+	}
+
+}
