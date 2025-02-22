@@ -10,6 +10,7 @@
 
 
 ## Sink Target
+- Kafka
 - MySQL
 - Redis
 - NoSQL
